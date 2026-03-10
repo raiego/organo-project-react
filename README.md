@@ -1,23 +1,23 @@
 # Organo Project (React)
 
-Projeto desenvolvido em **React** com o objetivo de praticar componentização, props, estado e organização de pastas, seguindo boas práticas do ecossistema React.
+Project developed with **React** to practice component-based architecture, props, state management, and folder organization while following best practices from the React ecosystem.
 
-## 📌 Sobre o projeto
+## 📌 About the Project
 
-O **Organo** é uma aplicação onde é possível cadastrar pessoas e organizá-las em diferentes times, explorando conceitos fundamentais do React como:
+**Organo** is an application where users can register people and organize them into different teams, exploring fundamental React concepts such as:
 
-- Componentes reutilizáveis
+- Reusable components
 - Props
-- Estado (`useState`)
-- Renderização condicional
-- Organização de pastas
-- Importações absolutas
+- State management (`useState`)
+- Conditional rendering
+- Folder organization
+- Absolute imports
 
-Projeto desenvolvido para fins de **estudo e aprendizado**.
+This project was created for **study and learning purposes**.
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Technologies Used
 
 - React
 - JavaScript (ES6+)
@@ -27,57 +27,57 @@ Projeto desenvolvido para fins de **estudo e aprendizado**.
 
 ---
 
-## 📂 Estrutura do projeto
+## 📂 Project Structure
+
 
 src/
-├─ componentes/
-├─ paginas/
+├─ components/
+├─ pages/
 ├─ App.js
 ├─ index.js
 └─ styles/
 
+
 ---
 
-## ▶️ Como executar o projeto
+## ▶️ Running the Project
 
-### 1️⃣ Clone o repositório
-```bash
+### 1️⃣ Clone the repository
+
+```
 git clone https://github.com/raiego/organo-project-react.git
-
-2️⃣ Acesse a pasta do projeto
+2️⃣ Navigate to the project folder
 cd organo-project-react
-
-3️⃣ Instale as dependências
+3️⃣ Install dependencies
 npm install
-
-4️⃣ Execute o projeto
+4️⃣ Start the project
 npm start
 
-
-O projeto será iniciado em:
+```
+The project will run at:
 
 http://localhost:3000
-```
-🚀 Funcionalidades
+🚀 Features
 
-Cadastro de colaboradores
+Employee registration
 
-Organização por times
+Team organization
 
-Componentes reutilizáveis
+Reusable components
 
-Interface simples e funcional
+Simple and functional interface
 
-📚 Aprendizados
+📚 What I Learned
 
-Estruturação de projetos React
+Structuring React projects
 
-Uso de props e estado
+Using props and state
 
-Importações absolutas
+Absolute imports
 
-Boas práticas de organização de código
+Code organization best practices
 
-📄 Licença
+📄 License
 
-Este projeto é apenas para fins educacionais.
+This project is for educational purposes only.
+---
